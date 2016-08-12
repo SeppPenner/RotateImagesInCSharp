@@ -1,4 +1,4 @@
-ImageAutoTurner
+RotateImagesInCSharp
 ===============
 
 Kind of a 'library' for CSharp (.Net with WPF) on how to rotate images based on the 'orientation' EXIF tag.
