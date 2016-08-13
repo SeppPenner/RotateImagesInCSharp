@@ -12,9 +12,9 @@ Example images using each of the EXIF orientation flags (1-to-8), in both landsc
 [See here](http://www.daveperrett.com/articles/2012/07/28/exif-orientation-handling-is-a-ghetto/) for more information.
 
 Change history
------------
+--------------
 
-* **Version 1.0.0 (2012-07-28)** : 1.0 release.
+* **Version 1.0.0 (2016-06-13)** : 1.0 release.
 
 Contributing
 ------------
