@@ -11,9 +11,19 @@ Example images using each of the EXIF orientation flags (1-to-8), in both landsc
 
 [See here](http://www.daveperrett.com/articles/2012/07/28/exif-orientation-handling-is-a-ghetto/) for more information.
 
+## Basic usage:
+```csharp
+public void Test()
+{
+    IAutoRotate rotator = new AutoRotate();
+    rotator.AutorotateImage(new Bitmap("C:\\Users\\whatever\\Desktop\\abc.jpg"));
+} 
+```
+    
 Change history
 --------------
 
+* **Version 1.0.0 (2016-12-03)** : Added basic usage to Readme.
 * **Version 1.0.0 (2016-08-12)** : 1.0 release.
 
 Contributing
