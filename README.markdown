@@ -11,6 +11,8 @@ Example images using each of the EXIF orientation flags (1-to-8), in both landsc
 
 [See here](http://www.daveperrett.com/articles/2012/07/28/exif-orientation-handling-is-a-ghetto/) for more information.
 
+[![Build status](https://ci.appveyor.com/api/projects/status/c3qj32dh24qixots?svg=true)](https://ci.appveyor.com/project/SeppPenner/rotateimagesincsharp)
+
 ## Basic usage:
 ```csharp
 public void Test()
