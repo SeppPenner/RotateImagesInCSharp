@@ -3,6 +3,8 @@ RotateImagesInCSharp
 
 Kind of a 'library' for CSharp (.Net with WPF) on how to rotate images based on the 'orientation' EXIF tag.
 
+This assembly was written and tested in .Net 4.7.
+
 [See here](https://msdn.microsoft.com/en-us/library/windows/desktop/ms534418(v=vs.85).aspx) for more information on the EXIF tags used in Windows (.Net).
 
 For C# see also [here](https://github.com/SeppPenner/AutoImageTurner) for another possible implementation.
