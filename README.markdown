@@ -34,8 +34,8 @@ Change history
 --------------
 
 * **Version 1.0.0.1 (2019-05-07)** : Added missing badges.
-* **Version 1.0.0 (2016-12-03)** : Added basic usage to Readme.
-* **Version 1.0.0 (2016-08-12)** : 1.0 release.
+* **Version 1.0.0.0 (2016-12-03)** : Added basic usage to Readme.
+* **Version 1.0.0.0 (2016-08-12)** : 1.0 release.
 
 Copyright (of the images)
 -------------------------
