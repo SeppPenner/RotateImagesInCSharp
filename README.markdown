@@ -8,7 +8,7 @@ This assembly was written and tested in .Net 4.8.
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/RotateImagesInCSharp.svg)](https://github.com/SeppPenner/RotateImagesInCSharp/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/RotateImagesInCSharp.svg)](https://github.com/SeppPenner/RotateImagesInCSharp/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/RotateImagesInCSharp.svg)](https://github.com/SeppPenner/RotateImagesInCSharp/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/RotateImagesInCSharp/master/License.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/RotateImagesInCSharp/master/License.txt)
 [![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/RotateImagesInCSharp/badge.svg)](https://snyk.io/test/github/SeppPenner/RotateImagesInCSharp)
 
 [See here](https://msdn.microsoft.com/en-us/library/windows/desktop/ms534418(v=vs.85).aspx) for more information on the EXIF tags used in Windows (.Net).
