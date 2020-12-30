@@ -3,7 +3,7 @@ RotateImagesInCSharp
 
 Kind of a 'library' for CSharp (.Net with WPF) on how to rotate images based on the 'orientation' EXIF tag.
 
-This assembly was written and tested in .Net 4.8.
+This assembly was written and tested in .Net 5.0.
 
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/RotateImagesInCSharp.svg)](https://github.com/SeppPenner/RotateImagesInCSharp/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/RotateImagesInCSharp.svg)](https://github.com/SeppPenner/RotateImagesInCSharp/network)
@@ -29,13 +29,6 @@ public void Test()
     rotator.AutorotateImage(new Bitmap("C:\\Users\\whatever\\Desktop\\abc.jpg"));
 } 
 ```
-    
-Change history
---------------
-
-* **Version 1.0.0.1 (2019-05-07)** : Added missing badges.
-* **Version 1.0.0.0 (2016-12-03)** : Added basic usage to Readme.
-* **Version 1.0.0.0 (2016-08-12)** : 1.0 release.
 
 Copyright (of the images)
 -------------------------
@@ -45,3 +38,8 @@ Dave Perrett :: hello@daveperrett.com :: [@daveperrett](http://twitter.com/davep
 These images are licensed under the [MIT License](http://opensource.org/licenses/MIT).
 
 Copyright (c) 2010 Dave Perrett. See [License](https://github.com/recurser/exif-orientation-examples/blob/master/LICENSE) for details.
+
+Change history
+--------------
+
+See the [Changelog](https://github.com/SeppPenner/RotateImagesInCSharp/blob/master/Changelog.md).
