@@ -21,7 +21,7 @@ Example images using each of the EXIF orientation flags (1-to-8), in both landsc
 
 [![Build status](https://ci.appveyor.com/api/projects/status/c3qj32dh24qixots?svg=true)](https://ci.appveyor.com/project/SeppPenner/rotateimagesincsharp)
 
-## Basic usage:
+## Basic usage
 ```csharp
 public void Test()
 {
