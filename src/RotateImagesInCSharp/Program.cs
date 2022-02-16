@@ -1,4 +1,4 @@
-﻿// --------------------------------------------------------------------------------------------------------------------
+// --------------------------------------------------------------------------------------------------------------------
 // <copyright file="Program.cs" company="Hämmer Electronics">
 //   Copyright (c) All rights reserved.
 // </copyright>
@@ -7,22 +7,19 @@
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace RotateImagesInCSharp
-{
-    using System.Drawing;
+namespace RotateImagesInCSharp;
 
+/// <summary>
+/// The main program.
+/// </summary>
+public static class Program
+{
     /// <summary>
-    /// The main program.
+    /// The main method.
     /// </summary>
-    public static class Program
+    public static void Main()
     {
-        /// <summary>
-        /// The main method.
-        /// </summary>
-        public static void Main()
-        {
-            var rotate = new AutoRotate();
-            rotate.AutorotateImage(new Bitmap("C:\\Users\\whatever\\Desktop\\abc.jpg"));
-        } 
+        var rotate = new AutoRotate();
+        rotate.AutorotateImage(new Bitmap("C:\\Users\\whatever\\Desktop\\abc.jpg"));
     }
 }
